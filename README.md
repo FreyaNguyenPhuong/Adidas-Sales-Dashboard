@@ -1,7 +1,7 @@
 # Adidas-Sales-Dashboard
 Basic sales dashboard for sales manager
 
-We heard about dashboards all the time. For a newbie, it is easy to mix up dashboard and report. There is a significant difference between these two. A report focuses on analyzing problems, gives insights; thus, involves lots of information (numbers, texts, graphs etc.). Whereas a dashboard is designed for the user to quickly grasp the importance, usually in graphical form, one page with measure against KPI.
+We heard about dashboards all the time. For a newbie, it is easy to mix up dashboard and report. There is a significant difference between these two. A report focuses on analyzing problems, gives insights; thus, involves lots of information (numbers, texts, graphs etc.). Whereas a dashboard is designed for the user to quickly grasp the importance, usually in graphical form, typically one page with measure against KPI.
 
 Dashboard is the easiest way to keep people focused. Imagine a sales manager whose KPI is achieving sales target. Her daily concern is to make sure sales are progressing. She probably needs to monitor the results to quickly spot any unusual event and fix it asap. A dashboard helps her, and her team watch out for the performance anytime while doing the sales.
 
